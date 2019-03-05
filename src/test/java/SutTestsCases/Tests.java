@@ -45,4 +45,21 @@ public class Tests extends Basic{
         assertEquals(prop.getProperty("SUT_TITLE"), HomePage.getSutTitle());	
 }
 	
+	@Test
+	public void test2() throws InterruptedException, IOException {
+		
+		HomePage.openSut();
+				
+		HomePage.openFromAirportsDropDown();
+	}
+	
+	@Test
+	public void test3() throws InterruptedException, IOException {
+		
+		HomePage.openSut();
+				
+		HomePage.openFromAirportsDropDown();
+		
+	}
+	
 }
