@@ -21,7 +21,8 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>2.22.1</version>
         <configuration>
-          <forkMode>never</forkMode>
+          <useSystemClassLoader>false</useSystemClassLoader>
+          <forkCount>true</forkCount>
         </configuration>
       </plugin>
     </plugins>
