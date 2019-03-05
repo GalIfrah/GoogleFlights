@@ -21,7 +21,7 @@
 				<version>2.21.0</version>
 				<configuration>
 					<includes>
-						<include>./*Test.java</include>
+						<include>**/HomeTest.java</include>
 					</includes>
 				</configuration>
 			</plugin>
