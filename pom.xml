@@ -22,6 +22,7 @@
         <version>2.22.1</version>
         <configuration>
           <useSystemClassLoader>false</useSystemClassLoader>
+          <forkMode>never</forkMode>
         </configuration>
       </plugin>
     </plugins>
