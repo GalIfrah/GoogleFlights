@@ -1,7 +1,8 @@
 package Infrastructure;
 import java.io.IOException;
 import java.net.MalformedURLException;
-import java.util.Properties; 
+import java.util.Properties;
+
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -41,7 +42,7 @@ public class Basic {
 		prop = new Properties();
 		
 		
-		prop = readProperties.readPropFile(prop, "C:\\Users\\galif\\eclipse-workspace\\AutomationProject\\src\\test\\Tests\\SutProperties\\config.properties");
+		prop = readProperties.readPropFile(prop, "C:\\Users\\galif\\eclipse-workspace\\AutomationProject\\src\\test\\java\\SutProperties\\config.properties");
 	
 	}
 	
