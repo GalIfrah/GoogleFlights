@@ -38,7 +38,7 @@ public class HomeTests extends Basic{
 				
 		HomePage.clickOnSearchButton();
 		
-		Thread.sleep(15000);
+//		Thread.sleep(15000);
 //
 //		Thread.sleep(2000);
 		
