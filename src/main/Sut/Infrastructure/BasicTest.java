@@ -80,6 +80,6 @@ public class BasicTest {
 		readProperties.killInput();
 		
 		
-		System.out.println("killed all running processes");
+		System.out.println("killed all running processes!");
 	}
 }
