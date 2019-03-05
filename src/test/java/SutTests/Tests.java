@@ -6,10 +6,10 @@ import java.io.IOException;
 
 import org.junit.Test;
 
-import Infrastructure.BasicTest;
+import Infrastructure.Basic;
 import PageObjects.PageObjects.HomePage;
 
-public class Tests extends BasicTest{
+public class Tests extends Basic{
 
 	
 	@Test

@@ -13,7 +13,7 @@ import Infrastructure.GenericPageObject;
 import ProjectUtils.ProcessUtils;
 import ProjectUtils.ReadPropertyFile;
 
-public class BasicTest {
+public class Basic {
 	
 	public WebDriverWrapper driverWrapper;
 	
