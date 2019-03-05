@@ -22,7 +22,7 @@
         <version>2.22.1</version>
         <configuration>
           <useSystemClassLoader>false</useSystemClassLoader>
-          <forkCount>true</forkCount>
+          <forkCount>2</forkCount>
         </configuration>
       </plugin>
     </plugins>
