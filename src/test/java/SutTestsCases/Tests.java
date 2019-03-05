@@ -1,4 +1,4 @@
-package SutTests;
+package SutTestsCases;
 
 import static org.junit.Assert.assertEquals;
 
