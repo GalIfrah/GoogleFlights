@@ -6,7 +6,6 @@ import java.io.IOException;
 
 import org.junit.Test;
 
-import Infrastructure.Basic;
 import PageObjects.PageObjects.HomePage;
 
 public class Tests extends Basic{
