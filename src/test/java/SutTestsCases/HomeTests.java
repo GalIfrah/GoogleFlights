@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import PageObjects.PageObjects.HomePage;
 
-public class Tests extends Basic{
+public class HomeTests extends Basic{
 
 	
 	@Test
