@@ -21,11 +21,6 @@
 				<version>2.21.0</version>
 					
 				 <configuration>
-			        <useManifestOnlyJar>false</useManifestOnlyJar>
-			        <useSystemClassLoader>false</useSystemClassLoader>
-			        <reuseForks>false</reuseForks>
-			        <skipTests>${skipTests}</skipTests>
-			        <forkedProcessTimeoutInSeconds>300</forkedProcessTimeoutInSeconds>
 			        <forkCount>1C</forkCount>
 			        <argLine>-XX:MaxPermSize=1G -Xmx1G </argLine>
 			  
