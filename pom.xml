@@ -23,7 +23,7 @@
 				 <configuration>
 				 
 			        <forkMode>never</forkMode>
-			  
+					<testFailureIgnore>false</testFailureIgnore>				  
 					<includes>
 						<include>**/HomeTests.java</include>
 					</includes>
