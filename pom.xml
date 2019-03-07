@@ -22,7 +22,8 @@
 					
 				 <configuration>
 				 
-			        <forkMode>never</forkMode>
+			        <forkCount>0</forkCount>
+			        <reuseForks>false</reuseForks>
 					<testFailureIgnore>false</testFailureIgnore>				  
 					<includes>
 						<include>**/HomeTests.java</include>
