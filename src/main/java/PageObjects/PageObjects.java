@@ -73,9 +73,7 @@ public class PageObjects {
 				
 				driverWrapper.findElementBy(Locators.XPATH, DESTINATION_FIELD).click();
 			}
-			
-			
-			driverWrapper.hover(DESTINATION_FIELD);
+		
 		}
 
 		
