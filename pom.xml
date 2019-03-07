@@ -21,8 +21,8 @@
 				<version>2.21.0</version>
 					
 				 <configuration>
-			        <forkCount>1C</forkCount>
-			        <argLine>-XX:MaxPermSize=1G -Xmx1G </argLine>
+				 
+			        <forkMode>never</forkMode>
 			  
 					<includes>
 						<include>**/HomeTests.java</include>
